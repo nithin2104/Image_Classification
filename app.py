@@ -27,3 +27,4 @@ if uploaded_file is not None:
     q = model.predict_proba(flat_data)
     for index, item in enumerate(CATEGORIES):
       st.write(f'{item} : {q[0][index]*100}')
+       
