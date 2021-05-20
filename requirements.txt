@@ -1,9 +1,6 @@
 streamlit
 numpy
 scikit-image
-skimage.io
 imread
-skimage.transform
-pickle
-PTL
+resize
 Image
