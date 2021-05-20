@@ -1,2 +1,9 @@
 streamlit
-scikit-image
+numpy
+skimage
+skimage.io
+imread
+skimage.transform
+pickle
+PTL
+Image
